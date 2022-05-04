@@ -4,15 +4,10 @@ Sou um estudante de Ciência da Computação no IFCE e atualmente estou estudand
 Possuo um forte senso de justiça e resiliência para alcançar meus objetivos. Estou perseguindo meu grande sonho de ser 
 um exímio desenvolvedor para conseguir fazer a diferença no mercado de trabalho e ser uma grande referência na área e um exemplo a ser seguido.
 
-- 🔭 Estou estudando fullstack
-- 🌱 Estou focando em Java
+- 🔭 Estou estudando back-end
+- 🌱 Foco em Java!
 - ⚡ Possuo um forte senso de justiça, mente aberta e bastante adepto ao Teamworking!! 
 
-<div align="center">
-  <a href="https://github.com/nedsonicaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nedsonicaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedsonicaro&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">  
