@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Ícaro Nédson ##
 
 Sou um estudante de Ciência da Computação no IFCE e atualmente estou estudando para me tornar um Desenvolvedor de Software. 
-Possuo um forte senso de justiça e resiliência para alcançar meus objetivos. Estou perseguindo meu grande sonho de ser 
-um exímio desenvolvedor para conseguir fazer a diferença no mercado de trabalho e ser uma grande referência na área e um exemplo a ser seguido.
+Possuo grande resiliência para alcançar meus objetivos. Estou perseguindo meu grande sonho de ser um exímio desenvolvedor 
+para conseguir fazer a diferença no mercado de trabalho e ser uma grande referência na área e um exemplo a ser seguido.
 
 - 🔭 Estou estudando back-end
 - 🌱 Foco em Java!
