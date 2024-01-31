@@ -7,5 +7,5 @@ Experiência em desenvolvimento de APIs REST com Hibernate, JPA, Spring Framewor
 Também utilizando arquitetura de Microserviços (Docker), Ferramentas de segurança (OAuth2, JWT) e Metodologias ágeis (Scrum e Kanban).
 
 ## Contato ##
-> icaronedson54@gmail.com
 > linkedin.com/nedsonicaro
+> icaronedson54@gmail.com
