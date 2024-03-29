@@ -1,5 +1,5 @@
 ## Sobre mim ##
-- Aprendiz de desenvolvedor backend na Planner Sistemas
+- Aprendiz de desenvolvedor backend na Planner Sistemas (Nível Júnior)
 - Aluno de Ciência da Computação no Instituto Federal do Ceará
 
 ## Stack de tecnologias, ferramentas e linguagens ##
